@@ -1,33 +1,33 @@
 {
   "sitedata": [
     {
-      "sitename": "Fly My Community",
+      "sitename": "Test Page",
       "icon": "/img/favicon.png",
-      "logo": "/img/logofly.png",
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1557555565/jmunx0xq26o3q294coqd.png",
       "logoname": "Fly My Community",
-      "metadesc": "Trusted By Fine Real Estate Professionals",
-      "metauthor": "Fly My Community",
-      "metakeyword": "cms",
+      "metadesc": "Site Description",
+      "metauthor": "Rachel Woods",
+      "metakeyword": "tags for homes",
       "footer": "All rights reserved! 2018 WebriQ Pte Ltd"
     }
   ],
   "content": [
     {
-      "email": "realagent@flymycommunity.com",
+      "email": "test@gmail.com",
       "logo": "/img/logofly.png",
       "linkcont": "032000333555",
-      "videoid": "255662356",
+      "videoid": "234567208",
       "sliderbg": "/img/slider_bg.jpg",
       "sliderbg_video": "https://player.vimeo.com/video/250014579?background=1",
-      "slidertext1": "Crystal Park",
-      "slidertext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
+      "slidertext1": "FMC Test Video",
+      "slidertext2": "Video Heading ",
       "poplink": "//vimeo.com/250014579"
     }
   ],
   "about": [
     {
-      "abouttext1": "Crystal Park - FMC ",
-      "abouttext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
+      "abouttext1": "Check out the neighborhood",
+      "abouttext2": "This broadmoor valley",
       "aboutbg": "/img/aboutfly_bg.png"
     }
   ],
